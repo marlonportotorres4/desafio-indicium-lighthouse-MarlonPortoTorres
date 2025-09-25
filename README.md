@@ -6,11 +6,11 @@ Este projeto foi desenvolvido como solução para o desafio de Ciência de Dados
 
 O modelo de Machine Learning desenvolvido ao final do projeto é capaz de prever a nota IMDB de um filme com base em suas características, como gênero, diretor, elenco, duração e faturamento.
 
+Toda o projeto foi inteiramente documentado e organizado no Jupyter Notbook desenvolvido no Google Colab. Desde a parte do EDA até a treinamente de predição de resultados.
+
 ---
 
 ## 2. Como Executar o Projeto
-
-Existem duas maneiras de executar este projeto:
 
 ### 🚀 Execução Rápida (Google Colab)
 
